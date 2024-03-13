@@ -190,7 +190,7 @@ The app must have the following functionalities
 #### Description:
 
 Returns a response based on the credentials provided
-
+ 
 #### Sample Success Response
 
 ```json
