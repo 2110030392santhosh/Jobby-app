@@ -40,10 +40,6 @@ We welcome contributions from the community! If you'd like to contribute to Jobb
 
 Please ensure that your pull request follows the project's coding conventions and includes relevant tests if applicable.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Special thanks to the ReactJS, Redux, and Material-UI communities for their invaluable contributions.
